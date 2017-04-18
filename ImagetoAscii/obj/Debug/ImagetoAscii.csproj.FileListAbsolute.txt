@@ -1,0 +1,9 @@
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\bin\Debug\ImagetoAscii.exe.config
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\bin\Debug\ImagetoAscii.exe
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\bin\Debug\ImagetoAscii.pdb
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.csprojResolveAssemblyReference.cache
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.Form1.resources
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.Properties.Resources.resources
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.csproj.GenerateResource.Cache
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.exe
+c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.pdb
