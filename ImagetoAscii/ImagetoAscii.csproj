@@ -81,7 +81,6 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Sample\conv1.PNG" />
-    <Content Include="Sample\conv2.PNG" />
     <Content Include="Sample\mainprog.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
