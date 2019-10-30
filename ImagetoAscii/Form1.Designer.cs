@@ -77,6 +77,9 @@
             // 
             // asciiTextBox
             // 
+            this.asciiTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.asciiTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.asciiTextBox.Location = new System.Drawing.Point(301, 94);
             this.asciiTextBox.MaxLength = 0;

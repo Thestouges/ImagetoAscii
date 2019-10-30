@@ -7,3 +7,12 @@ c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAsc
 c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.csproj.GenerateResource.Cache
 c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.exe
 c:\users\silentsky\documents\visual studio 2017\Projects\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.pdb
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\bin\Debug\ImagetoAscii.exe.config
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\bin\Debug\ImagetoAscii.exe
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\bin\Debug\ImagetoAscii.pdb
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.csprojAssemblyReference.cache
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.Form1.resources
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.Properties.Resources.resources
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.csproj.GenerateResource.cache
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.exe
+C:\Users\SilentSky\Source\Repos\Thestouges\ImagetoAscii\ImagetoAscii\obj\Debug\ImagetoAscii.pdb
